@@ -1,2 +1,17 @@
-# Python-Programming
-Python programming programs and practice for problem solving, automation, and placement preparation.
+# Python Programming
+
+This repository contains my Python programs and practice.
+
+Topics
+
+- Basics
+- Loops
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- File Handling
+
+Author
+
+Pranali Patil
