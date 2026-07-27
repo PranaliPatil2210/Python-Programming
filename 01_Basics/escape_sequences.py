@@ -1,0 +1,8 @@
+print("Hello\nWorld")
+print("Name\tAge")
+print("Rahul\t20")
+print('I\'m learning Python')
+print("He said, \"Hello\"")
+print("C:\\Users\\Student")
+print("Helloo\b")
+print("12345\rABC")
