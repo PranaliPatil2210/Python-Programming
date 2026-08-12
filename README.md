@@ -39,7 +39,7 @@ Python-Programming
 - Dictionaries
 - File Handling
 - Modules
-- Packages
+- Exception Handling
 - Practice Programs
 - Mini Projects
 
