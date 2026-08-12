@@ -20,7 +20,9 @@ Python-Programming
 ├── 09_Set
 ├── 10_Modules
 ├── 11_File_Handling
+├── 12_Exception_Handling
 └── Mini_Project
+
 ```
 
 ## Topics Covered
